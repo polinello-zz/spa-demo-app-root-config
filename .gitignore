@@ -17,6 +17,10 @@ lib-cov
 # Coverage directory used by tools like istanbul
 coverage
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+*.lcov
+>>>>>>> e758df98b0d87b6b774e99b6a4436bea37bc9da8
 =======
 *.lcov
 >>>>>>> e758df98b0d87b6b774e99b6a4436bea37bc9da8
@@ -25,7 +29,11 @@ coverage
 .nyc_output
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+=======
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+>>>>>>> e758df98b0d87b6b774e99b6a4436bea37bc9da8
 =======
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 >>>>>>> e758df98b0d87b6b774e99b6a4436bea37bc9da8
@@ -48,6 +56,12 @@ jspm_packages/
 typings/
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+# TypeScript cache
+*.tsbuildinfo
+
+>>>>>>> e758df98b0d87b6b774e99b6a4436bea37bc9da8
 =======
 # TypeScript cache
 *.tsbuildinfo
@@ -60,13 +74,19 @@ typings/
 .eslintcache
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> e758df98b0d87b6b774e99b6a4436bea37bc9da8
 # Microbundle cache
 .rpt2_cache/
 .rts2_cache_cjs/
 .rts2_cache_es/
 .rts2_cache_umd/
 
+<<<<<<< HEAD
+>>>>>>> e758df98b0d87b6b774e99b6a4436bea37bc9da8
+=======
 >>>>>>> e758df98b0d87b6b774e99b6a4436bea37bc9da8
 # Optional REPL history
 .node_repl_history
@@ -79,6 +99,7 @@ typings/
 
 # dotenv environment variables file
 .env
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 # next.js build output
@@ -95,6 +116,8 @@ dist
 *.sw?
 .DS_Store
 =======
+=======
+>>>>>>> e758df98b0d87b6b774e99b6a4436bea37bc9da8
 .env.test
 
 # parcel-bundler cache (https://parceljs.org/)
@@ -127,4 +150,7 @@ dist
 
 # TernJS port file
 .tern-port
+<<<<<<< HEAD
+>>>>>>> e758df98b0d87b6b774e99b6a4436bea37bc9da8
+=======
 >>>>>>> e758df98b0d87b6b774e99b6a4436bea37bc9da8
