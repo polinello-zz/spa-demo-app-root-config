@@ -13,6 +13,7 @@ export function home(location) {
   return prefix(location, "home");
 }
 
+//testpage
 export function testPage(location) {
   return prefix(location, "testPage");
 }
